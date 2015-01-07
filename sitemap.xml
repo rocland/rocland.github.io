@@ -2,8 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://rocland.github.io/courses/index.html</loc>
+    <lastmod>2015-01-07T03:53:01.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rocland.github.io/reading/index.html</loc>
+    <lastmod>2015-01-07T03:52:49.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://rocland.github.io/about/index.html</loc>
-    <lastmod>2015-01-06T13:42:32.000Z</lastmod>
+    <lastmod>2015-01-07T03:50:09.000Z</lastmod>
   </url>
   
   <url>
