@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://rocland.github.io/about/index.html</loc>
+    <lastmod>2015-01-10T13:02:50.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://rocland.github.io/project/index.html</loc>
     <lastmod>2015-01-07T04:15:59.000Z</lastmod>
   </url>
@@ -14,11 +19,6 @@
   <url>
     <loc>http://rocland.github.io/reading/index.html</loc>
     <lastmod>2015-01-07T03:52:49.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://rocland.github.io/about/index.html</loc>
-    <lastmod>2015-01-07T03:50:09.000Z</lastmod>
   </url>
   
   <url>
